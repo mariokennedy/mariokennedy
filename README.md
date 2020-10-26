@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 
 # Mário Kennedy Sabino Ferreira :computer:
 
-<img src="https://img.shields.io/linkedin/url?style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmariokennedy%2F" />
+<a href="https://www.linkedin.com/in/mariokennedy/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a>
+
