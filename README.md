@@ -16,9 +16,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Mário Kennedy Sabino Ferreira :computer:
+<img align="right" width="400" height="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
-<a href="https://www.linkedin.com/in/mariokennedy/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a>
+# Bem Vindo!
+
+## Olá Eu Sou Mário Kennedy - 💻 
+
+
+Atualmente cursando o 5º período de Engenharia de Computação | Centro Universitário Mario Pontes Jucá - UMJ
+
+## Sobre mim
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/mkennedysf
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavio-soares-da-silva10/)](https://www.linkedin.com/in/mariokennedy
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soares.flavio10@gmail.com)](mkennedysf@gmail.com
+
+- Obrigado Pela Visita.
+
 
