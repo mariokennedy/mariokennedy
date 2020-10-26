@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 # Mário Kennedy Sabino Ferreira :computer:
 
-https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmariokennedy%2F
+<img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmariokennedy%2F" />
