@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 Atualmente cursando o 5º período de Engenharia de Computação | Centro Universitário Mario Pontes Jucá - UMJ
 
 ## Sobre mim
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/mkennedysf
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavio-soares-da-silva10/)](https://www.linkedin.com/in/mariokennedy
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soares.flavio10@gmail.com)](mkennedysf@gmail.com
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mkennedysf)]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariokennedy)]
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mkennedysf@gmail.com)]
 
 - Obrigado Pela Visita.
 
