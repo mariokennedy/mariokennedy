@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 Atualmente cursando o 5º período de Engenharia de Computação | Centro Universitário Mario Pontes Jucá - UMJ
 
 ## Sobre mim
+
+:round_pushpin: Maceió-AL,Brasil
+
 <a href="https://www.linkedin.com/in/mariokennedy/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
