@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## Olá Eu Sou Mário Kennedy - 💻 
 
 
-Atualmente cursando o 6º período de Engenharia de Computação | Centro Universitário Mario Pontes Jucá - UMJ
+Atualmente cursando o 9º período de Engenharia de Computação | Centro Universitário Mario Pontes Jucá - UMJ
 
 ## Sobre mim
 
